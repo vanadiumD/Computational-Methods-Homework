@@ -12,10 +12,3 @@ n = 5, error = 0.555911
 n = 10, error = 0.109147
 n = 20, error = 0.015325
 n = 40, error = 0.000289
-
-三角函数拟合
-输入
-无
-输出
-a = 4.391223, b = -1.463108, 均方误差 = 1.240750
-E:\visual studio\project\caculation method\homework 2\最小二乘法\
